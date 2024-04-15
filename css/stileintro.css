@@ -48,7 +48,7 @@ body {
     bottom: 10px; /* Distancia il testo dal basso */
     left: 0; /* Posiziona il testo a sinistra */
     color: white;
-    font-size: 100px;
+    font-size: 5.2vw;
     font-weight: bold;
     background-color: rgba(0, 0, 0, 0.5); /* Sfondo nero trasparente */
     padding: 10px; /* Aggiunto padding per separare il testo dal bordo */
